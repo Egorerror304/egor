@@ -53,12 +53,12 @@ ul{
 
 }
 
-div {
+.div {
     display: flex;
     justify-content: center;
 }
 
-div img {
+.div img {
     margin-left: 20px;
 }
 header {
